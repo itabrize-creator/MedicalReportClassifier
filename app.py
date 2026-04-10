@@ -55,5 +55,5 @@ if st.button("🔍 Classify Report"):
         st.info("This classification was performed using an NLP-based Machine Learning model trained on medical report data.")
 
 st.markdown("---")
-st.markdown("**Team Members:** Syeda Ina Tabizza | Vaishnavi Sharma | Surbhi Sagar | Arham Nabeel | Toufique Raza")
+st.markdown("**Team Members:** Syeda Ina Tabrize | Vaishnavi Sharma | Surbhi Sagar | Arham Nabeel | Taufique Raza")
 st.markdown("**Guide:** Mr. Vinay Pratap Mishra")
